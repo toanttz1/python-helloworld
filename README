@@ -1,5 +1,11 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftoanttz1%2Fpython-helloworld.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftoanttz1%2Fpython-helloworld?ref=badge_shield)
+
 Hello, World
 ============
 
 A simple program, and an example of how to structure a python project.
 You can simply start the program by typing "python main.py" in the helloworld folder.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftoanttz1%2Fpython-helloworld.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftoanttz1%2Fpython-helloworld?ref=badge_large)
